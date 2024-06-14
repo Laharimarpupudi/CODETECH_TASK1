@@ -1,20 +1,17 @@
 **Name** : MARPUPUDI LALITHA LAHARI                                                                                                                                                                                  
-**Company** : CODTECH IT SOLUTIONS
-**ID** : CT12PD315
-**Domain**: PYTHON PROGRAMMING
-**Duration** : May to july 2024
-**Mentor** : SRAVANI GOUNI
+**Company** : CODTECH IT SOLUTIONS                                                                                                                                                                                   
+**ID** : CT12PD315                                                                                                                                                                                                   
+**Domain**: PYTHON PROGRAMMING                                                                                                                                                                                       
+**Duration** : May to july 2024                                                                                                                                                                                      
+**Mentor** : SRAVANI GOUNI                                                                                                                                                                                           
 
 
-##Overview of the project
+## Overview of the project
 
 
 ### Project : Create a Python program that acts as a basic calculator. It should prompt the user to enter two numbers and choose an operation (addition, subtraction, multiplication, division). Then, it should perform the selected operation and display the result to the user.
 
-###description of the project:
-The Python project you're describing is a basic calculator program. Here's a description:
-
----
+### description of the project:
 
 **Title:** Basic Python Calculator
 
